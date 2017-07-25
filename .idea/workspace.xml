@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ca23f16-8a48-4fa2-9a63-5a0a880f81ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/Popular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.css" afterPath="$PROJECT_DIR$/app/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.js" afterPath="$PROJECT_DIR$/app/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Popular.js" afterPath="$PROJECT_DIR$/app/components/Popular.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,8 +73,8 @@
       <file leaf-file-name="Popular.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/components/Popular.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="85" lean-forward="false" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
+            <state relative-caret-position="525">
+              <caret line="35" column="73" lean-forward="true" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -707,12 +702,12 @@
       <updated>1499688866491</updated>
       <workItem from="1499688869671" duration="7480000" />
       <workItem from="1500541953237" duration="3694000" />
-      <workItem from="1500965219109" duration="157000" />
+      <workItem from="1500965219109" duration="1305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11331000" />
+    <option name="totallyTimeSpent" value="12479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="962" extended-state="6" />
@@ -894,30 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -934,10 +905,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/Popular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="85" lean-forward="false" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
+        <state relative-caret-position="525">
+          <caret line="35" column="73" lean-forward="true" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
           <folding />
         </state>
       </provider>
