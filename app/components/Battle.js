@@ -143,7 +143,7 @@ class Battle extends React.Component {
             </button>
           </PlayerPreview>
           }
-
+        </div>
 
         {playerOneImage && playerTwoImage &&
           <Link
@@ -155,7 +155,7 @@ class Battle extends React.Component {
             Battle
           </Link>
         }
-        </div>
+
       </div>
     )
   }
